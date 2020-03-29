@@ -1,0 +1,12 @@
+﻿extensions: designer.cs generated.cs
+extensions: .cs
+/*
+ *  SPDX-License-Identifier: MIT
+ *  Copyright (c) 2020 Drakmyth. All rights reserved.
+ */
+
+extensions: .xml .xaml
+<!--
+SPDX-License-Identifier: MIT
+Copyright (c) 2020 Drakmyth. All rights reserved.
+-->
